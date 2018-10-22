@@ -1,1 +1,1 @@
-Welcome to Tic Toe Game
+Welcome to Tic Tac Toe Game
